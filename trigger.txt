@@ -1,1 +1,1 @@
-langgenius/dify-api:0.6.12 registry.cn-shenzhen.aliyuncs.com/ant_199201/base/dify-api:0.6.12
+langgenius/dify-api:0.6.12 registry.cn-shenzhen.aliyuncs.com/ant_199201/base001/dify-api:0.6.12
