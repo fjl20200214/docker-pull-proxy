@@ -1,8 +1,8 @@
-langgenius/dify-api:0.6.12 registry.cn-shenzhen.aliyuncs.com/ant_199201/base/langgenius/dify-api:0.6.12
-langgenius/dify-web:0.6.12 registry.cn-shenzhen.aliyuncs.com/ant_199201/base/langgenius/dify-web:0.6.12
+langgenius/dify-api:0.6.12 registry.cn-shenzhen.aliyuncs.com/ant_199201/base/dify-api:0.6.12
+langgenius/dify-web:0.6.12 registry.cn-shenzhen.aliyuncs.com/ant_199201/base/dify-web:0.6.12
 postgres:15-alpine registry.cn-shenzhen.aliyuncs.com/ant_199201/base/postgres:15-alpine
 redis:6-alpine registry.cn-shenzhen.aliyuncs.com/ant_199201/base/redis:6-alpine
-semitechnologies/weaviate:1.19.0 registry.cn-shenzhen.aliyuncs.com/ant_199201/base/semitechnologies/weaviate:1.19.0
-langgenius/dify-sandbox:0.2.1 registry.cn-shenzhen.aliyuncs.com/ant_199201/base/langgenius/dify-sandbox:0.2.1
-ubuntu/squid:latest registry.cn-shenzhen.aliyuncs.com/ant_199201/base/ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0 registry.cn-shenzhen.aliyuncs.com/ant_199201/base/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1 registry.cn-shenzhen.aliyuncs.com/ant_199201/base/dify-sandbox:0.2.1
+ubuntu/squid:latest registry.cn-shenzhen.aliyuncs.com/ant_199201/base/squid:latest
 nginx:latest registry.cn-shenzhen.aliyuncs.com/ant_199201/base/nginx:latest
